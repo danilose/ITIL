@@ -1,6 +1,6 @@
 # Introdução ITIL
 
-## O que *não* é
+## O que **não** é
 - Processo prescritivo
 - conjunto de regras.
 
@@ -89,13 +89,13 @@ Matriz RACI: define pessoas e responsabilidades.
 ### Objetivo: garantir alinhamento estratégico e a visão da TI com o negócio de forma a sempre procurar a máxima eficiência.
 
 ### 7 passos:
-- identificação da estratégia (plan)
-- definir o que medir e o que se pode medir (plan)
-- coletar dados (do)
-- processar dados (do)
-- analisar dados (check)
-- apresentar e usar a informação (action)
-- implementar ação corretiva (action)
+- identificação da estratégia (*Plan*)
+- definir o que medir e o que se pode medir (*Plan*)
+- coletar dados (*Do*)
+- processar dados (*Do*)
+- analisar dados (*Check*)
+- apresentar e usar a informação (*Action*)
+- implementar ação corretiva (*Action*)
 
 ### Ciclo PDCA => Plan, Do, Check, Action
 
